@@ -1,0 +1,4 @@
+_config.yml filter=lfs diff=lfs merge=lfs -text
+index.md filter=lfs diff=lfs merge=lfs -text
+PythonIDE3.0_Win32-x64.zip filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
